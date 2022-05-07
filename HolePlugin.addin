@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\ReviAPITraining\HolePlugin.dll"</Assembly>
+		<AddInId>6FB4D4DB-8F53-40F6-9564-B3B8412423D3</AddInId>
+		<FullClassName>HolePlugin.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>HolePlugin</Text>
+	</AddIn>
+</RevitAddIns>
